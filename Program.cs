@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-
+            Class class1 = new Class();
+            class1.Burbuja();
         }
     }
 }
